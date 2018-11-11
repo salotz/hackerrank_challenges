@@ -1,3 +1,6 @@
+# trying not to use the obvious solution which is just to sum the
+# values because python handles big integers well
+
 def aVeryBigSum(ar):
   return \
   int(str(
